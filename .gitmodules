@@ -4,3 +4,6 @@
 [submodule "RGA_Boards"]
 	path = RGA_Boards
 	url = https://github.com/kyledenobel/RGA_Boards.git
+[submodule "RGA_Enclosure"]
+	path = RGA_Enclosure
+	url = https://github.com/kyledenobel/RGA_Enclosure.git
