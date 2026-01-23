@@ -10,3 +10,9 @@ The RGA device is an inexpensive guitar amplifier that also has built in recordi
 
 ## Device Image
 (to be filled out when complete)
+
+## Cloning Project
+$ `git clone https://github.com/kyledenobel/RGA --recurse-submodules `
+
+## Keeping The Project Up to Date
+$ `git submodule update --remote`
