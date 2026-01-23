@@ -1,3 +1,6 @@
 [submodule "RGA_Code"]
 	path = RGA_Code
 	url = https://github.com/kyledenobel/RGA_Code.git
+[submodule "RGA_Boards"]
+	path = RGA_Boards
+	url = https://github.com/kyledenobel/RGA_Boards.git
