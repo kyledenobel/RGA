@@ -1,0 +1,28 @@
+Meeting Minutes
+==============================================================
+(*) Robinson offered to buy us a driver
+	- we need to look into what we would like so we can tell him
+	- timeline for this is the next week, 2 weeks at most
+
+(*) Everyone is highly encouraged to join the GitHub repositories I set up.
+	- This should be where all of our documentation goes as it is easily and readily available to everyone
+	- Task boards have been setup to better organize what we will get done
+		- These tasks should be kept to a 1-3 week time period
+
+(*) Connector design
+	- I have some examples in the GitHub
+	- We should have a decision on this before we have finalized any board designs
+
+(*) Budget Constrains
+	- Need to see how expensive boards are with Marco's Big Muff board
+	- We might need to try and combine boards to cut costs (if that will cut costs)
+
+(*) Recording
+	- This should become a priority after basic Daisy Seed DAC/ADC is figured out
+	- We never really decided on what storage medium to use
+
+(*) We only have like 2 months before we said things would be here and be ready to test.
+	- We really need to start moving
+
+
+(*) Open Mic
