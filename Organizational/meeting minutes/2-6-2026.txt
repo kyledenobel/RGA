@@ -26,3 +26,21 @@ Meeting Minutes
 
 
 (*) Open Mic
+
+(*) Board Assignments:
+Joseph - Power Stage, Tone Stack & Pre-Amp, Analog Controller, Overdrive (tentative)
+Marco - Digital and Recording Board, Big Muff, Phaser, Power Amp
+
+Board Ordering Dates:
+February 23 - Digital and Recording Board, Analog Controller, Big Muff, Power Amp
+March 23 - 
+
+(*) Effect division:
+Kyle - Chorus/Drop, Analog Control MCU, 
+Andrew - Delay, Screen, Recording
+
+(*)MISC
+-Find screen to use
+-recording will be an option on screen
+-recording will happen inside daisy seen and write straight to USB.
+
