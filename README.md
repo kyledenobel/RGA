@@ -18,7 +18,11 @@ The RGA device is an inexpensive guitar amplifier that also has built in recordi
 $ `git clone https://github.com/kyledenobel/RGA --recurse-submodules `
 
 ## Keeping The Project Up to Date
+
 $ `git submodule update --remote --merge`
+
 if `git status` shows modified
+
 $ `git commit -a -m "<message>"`
+
 $ `git push`
