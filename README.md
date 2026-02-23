@@ -19,9 +19,9 @@ The RGA device is an inexpensive guitar amplifier that also has built in recordi
 - Drop
 - Tuner
 ### Outputs
-Speaker Output
-1/4 in Jack Output
-3.5 mm Jack Output
+- Speaker Output
+- 1/4 in Jack Output
+- 3.5 mm Jack Output
 ### Additional Features
 - Recording
 - Base, Middle, Treble Control
