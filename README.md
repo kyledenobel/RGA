@@ -11,7 +11,6 @@ The RGA device is an inexpensive guitar amplifier that also has built in recordi
 ## Features
 ### Analog Effects
 - Big Muff
-- Chorus
 - Phase 90
 - Overdrive
 ### Digital Effects
@@ -20,14 +19,10 @@ The RGA device is an inexpensive guitar amplifier that also has built in recordi
 - Tuner
 ### Outputs
 - Speaker Output
-- 1/4 in Jack Output
 - 3.5 mm Jack Output
 ### Additional Features
-- Recording
-- Base, Middle, Treble Control
-
-## Device Image
-(to be filled out when complete)
+- Recording via SD Card
+- Base, Middle, and Treble Control
 
 ## Cloning Project
 $ `git clone https://github.com/kyledenobel/RGA --recurse-submodules `
@@ -41,3 +36,20 @@ if `git status` shows modified
 $ `git commit -a -m "<message>"`
 
 $ `git push`
+
+## Device Image
+The following images are from the Spring 2026 Design Expo at Georgia Tech:
+<ins> Front of RGA </ins>
+![pacho front at expo](Organizational/photos/pacho%20front%20at%20expo.jpg)
+
+<ins> RGA User Interface </ins>
+![user interface](Organizational/photos//pacho_front.jpg)
+
+<ins> Team Photo at Expo </ins>
+![team photo wiht Pacho](Organizational/photos//pacho%20team.jpg)
+
+<ins> Poster for Expo </ins>
+![poster](Organizational/photos/Custom%20Guitar%20Amplifier.jpg)
+
+
+
