@@ -39,6 +39,7 @@ $ `git push`
 
 ## Device Image
 The following images are from the Spring 2026 Design Expo at Georgia Tech:
+
 <ins> Front of RGA </ins>
 ![pacho front at expo](Organizational/photos/pacho%20front%20at%20expo.jpg)
 
